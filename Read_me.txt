@@ -1,0 +1,1 @@
+Simple and easy to use application, personal API key and MongoDB URI is required.
